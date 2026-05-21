@@ -36,3 +36,16 @@
     margin-right: 12px;
   }
 }
+.aucun-resultat {
+  text-align: center;
+  color: #e74c3c;
+  font-size: 1.1rem;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.compteur-recherche {
+  color: #2c3e50;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
